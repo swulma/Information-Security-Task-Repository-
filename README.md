@@ -1,5 +1,5 @@
 # Information-Security-Task-Repository-
-This Repository contains Assignmets For Selected Course Topics In Informaton Security
+This Repository contains Assignmets For  Special Topics in Information Security 
 Welcome to the tasks repository for the **Information Security** course.  
 This repository contains the projects and assignments required for the course, covering advanced topics in cybersecurity and encryption.
 
