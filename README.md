@@ -6,7 +6,7 @@ This repository contains the projects and assignments required for the course, c
 ---
 
 ## 🧑‍💻 Student Information
-- **Name:** Abdullah Saeed S
+- **Name:** Abdullah Saeed Swailem
 - **Major:** Information Security
 - **College:** College of Computers and Information Technology
 - **University:** Seiyun University
